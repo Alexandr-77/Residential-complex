@@ -215,7 +215,8 @@ body {
     margin: 0 15px 30px;
     border: none;
     background: #ffffff2c;
-    padding: 0 15px;
+	color: #fff;
+    padding: 10px 15px;
 
 }
 .form-inspection input::placeholder {
@@ -348,7 +349,7 @@ body {
     background: #50555C;
     color: #fff;
     border: none;
-    padding: 0 20px;
+    padding: 10px 20px;
 }
 .questions-block__item input:focus {
     outline: none;
